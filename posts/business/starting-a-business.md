@@ -1,10 +1,14 @@
-# Starting a Business in Germany
+---
+title: 'Starting a Business in Germany'
+url: 'https://howtogermany.com/business/entrepreneurship/starting-a-business/'
+---
 
 Germany is home to tens of thousands of businesses ranging from small sole proprietorships to large conglomerates. In fact, a large part of the reason for the prominence of Germany’s economy on the world stage can be linked to the small and medium sized businesses (SMEs) of the Mittelstand. The German government is very open to the establishment of all types of businesses – regardless of whether or not it involves a German or a foreigner.
 
 Below are some important things to know and consider when starting a business in Germany.
 
 ## Corporations
+
 Types of Companies. Some individuals and companies that intend to engage in commercial activity in Germany may want to look into establishing some sort of corporate entity. Companies that do not have any presence in Germany may want to designate an agent to operate on their behalf to help establish a corporation. Advice from business experts is essential in determining the best type of corporate structure.
 
 Gesellschaft mit beschränkter Haftung (GmbH) (Limited liability company). This is by far the most widespread company form. Under it shareholders are not personally responsible for the company’s debts.
@@ -30,6 +34,7 @@ Zweigniederlassung (Branch). This is more of a non-independent sales center, dep
 The distinction between a subsidiary and a branch office is important, as it determines whether an entry must be made in the Commercial Register. The distinction is also important in determining whether a place of business exists within the meaning of German tax law.
 
 # Hiring Workers
+
 Free agents (freie Mitarbeiter): are workers who take care of their own taxes and insurance. You or the company have the option of utilizing their services only when you need them, and paying them only if they do the agreed work. And the relationship is easy to terminate if things don’t pan out.
 
 A full or part-time employee (Angestellter): hiring these employees will place a number of obligations on you or the company. The employer must, among other things, deduct taxes and insurance premiums from their pay, give them a certain amount of vacation each year, and observe the laws that protect them from arbitrary dismissal. The premiums for the German national retirement, unemployment and health insurance programs are borne equally by the employer and the employee. Half of each premium is deducted from the employee’s pay, the other half will be added to it by you and then sent to the appropriate agency and health insurance company.
@@ -37,6 +42,7 @@ A full or part-time employee (Angestellter): hiring these employees will place a
 Temporary Worker Agencies are becoming more and more popular as a source for workers in Germany. You can read our article on that here.
 
 ## Taxes and Premiums
+
 Taxes of major concern include the municipal trade tax (Gewerbesteuer) and the value added tax (Mehrwertsteuer), plus the income tax, solidarity surcharge and church tax of your employees.
 
 You also may be subject to the Corporate Tax (Körperschaftsteuer) if your business is incorporated.
@@ -50,6 +56,7 @@ The “solidarity surcharge,” amounting to 5.5% of a person’s income tax, co
 You will be subject to the Körperschaftsteuer, now about 15% of earnings, only if you choose the AG or GmbH form of organization. There are some advantages to incorporation, notably a limitation of your liability for the business’s debts. The Gewerbesteuer is considered one of your business expenses, and hence deductible from the Körperschaftsteuer.
 
 ## Self-Employment
+
 If you want to move to Germany and be self-employed and you meet certain criteria, then you most likely will be issued a residence permit (for both you and your family) if you can show that your business will have a positive effect on the German economy.
 
 This criteria would usually be related to the type of business, your qualifications and whether or not you may be doing something that could be done by a German national or some other qualified resident. The local Foreigners Office would most likely ask for certain documentation and then may well check with the local Chamber of Commerce or other organizations to see whether or not your business is specialized enough and economically viable. If your business is deemed acceptable you could be issued a residence permit.
@@ -61,6 +68,7 @@ Should your business flourish and reach a certain level of turnover or profitabi
 For more information on self-employment, go to our article on this topic.
 
 ## The Mittelstand
+
 Much of Germany’s business, in contrast to that in other industrialized countries, is conducted by the small and medium-sized companies (SME’s) of the Mittelstand. In one of Forbe’s recent lists of the world’s two thousand biggest firms, 252 were Japanese and 564 American.
 
 Only around 50 of these biggest companies were German, meaning that the Mittelstand is the engine of the German economy. The firms in it are often family-owned, with a dominant founder or manager. They have a benevolent attitude toward their employees, who, in turn, are exceptionally well qualified and motivated. In the past much of their business was done locally, and relationships with their customers were close. And their market success was based more on quality than price.
@@ -72,6 +80,7 @@ Because there is no official definition of this term (and no satisfactory Englis
 Mittelstand firms tend to be concentrated in industry, commerce, the skilled trades, professions, and such service industries as technology, construction, transport, retailing and the hotel and restaurant business.
 
 ## Who Can Help?
+
 Individuals or companies wishing to establish themselves in Germany should seek expert advice regarding legal, accounting and tax matters. This advice is available through private companies. Also, various German government agencies have information in English on their websites (as well as a number of downloadable brochures in English) that offer tips and advice on company set-up, self-employment and a wide range of other topics on doing business in Germany
 
 You can find information and contact details about private companies that advertise their business start-up services on this site at the Storefront links below.

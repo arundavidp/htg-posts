@@ -1,4 +1,7 @@
-# Self-Employment in Germany
+---
+title: 'Self-Employment in Germany'
+url: 'https://howtogermany.com/business/entrepreneurship/self-employment/'
+---
 
 Being self-employed in Germany is necessarily tied to residence. Without some sort of residence permit it will be difficult, if not impossible, for an individual to establish a business in which they are self-employed. (See the separate article on Residence Permits).
 
@@ -37,6 +40,7 @@ The German Federal Ministry of Economics and Technology has good information in 
 Should your business flourish and reach a certain level of turnover or profitability you may want to consider incorporating in Germany.
 
 ## Different Circumstances for some Foreign Residents of Germany
+
 The overwhelming majority of legal foreign residents in Germany are in the country with one of the standard residence permits issued by the German authorities allowing them (and their eligible family members) to live in Germany while working for a German company or studying at a German school. Residency is also normally granted in most cases to eligible EU citizens and spouses of German nationals.
 
 There are, however, a number of foreigners that are in Germany legally under other circumstances. Uniformed military (and their accompanying family members) from the USA and NATO countries are allowed residency under various Status of Forces Agreements (SoFA) negotiated with the German government. Civilians that work for the various defense departments or ministries as well as diplomats and other foreigners assigned to their country’s embassy or consulates may also have a different status (as do their family members). A different status may also be afforded to foreigners who work in Germany for companies that contract with the various foreign military and diplomatic offices of other countries. Some residents that are self-employed may also fall under this category.

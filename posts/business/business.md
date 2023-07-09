@@ -1,4 +1,8 @@
-# Business
+---
+title: 'Business'
+url: 'https://howtogermany.com/business/'
+---
+
 As a German expat looking to start a business or work as a self-employed individual in Germany, there are a number of important considerations to keep in mind. From navigating the legal and regulatory landscape to finding effective marketing strategies to reach potential customers, there are a range of topics that can be helpful to explore.
 
 For those interested in starting a business, there are a number of key steps to take, including registering your business and finding the right legal structure. The Mini-GmbH is one such option that can be worth exploring for those looking for a flexible and affordable way to start a business in Germany.

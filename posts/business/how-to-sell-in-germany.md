@@ -1,4 +1,7 @@
-# How To Sell in Germany
+---
+title: 'How To Sell in Germany'
+url: 'https://howtogermany.com/business/marketing/how-to-sell-in-germany/'
+---
 
 “Nothing happens until someone sells something” (Henry Ford).
 
@@ -6,7 +9,9 @@
 
 A short guide to the ins and outs of introducing and selling products and services to businesses and consumers in Germany.
 
+
 ## Introduction
+
 Companies across Europe and around the world are interested in selling products and services in Germany. Germany is still considered Europe’s economic powerhouse and it’s safe to assume that successfully entering the German market can help lead to further expansion into other European countries.
 
 The general perception is that Germany can be rather conservative, difficult to sell to (and in) and that decision-making processes take longer. These tendencies are, more often than not, true. But, they are also facets of the typical German approach to new possibilities – analytical, quality-oriented and maybe, yes, just a bit conservative.
@@ -17,9 +22,11 @@ Once sales goals have been reached in Germany, there is a primary, outstanding a
 
 So, even if it may seem difficult and a bit discouraging at the beginning, the extra effort will be worth it in the long run.
 
+
 ## An overview of the various sales components
 
 ### Sales Workforce
+
 It is difficult to determine the exact number of people directly involved in sales because the German labor statistics only count employees according to industry and subsector, but not to what work is actually done. In the “trade” field to which also retailers and others belong, there are 6 million employees and it can be assumed that many of them have sales-oriented work. According to the federal statistics office in Wiesbaden, at least 750,000 employees are working in sales and marketing with only around 35% being female.
 
 In Germany, salespeople are generally viewed favorably and are respected. According to a survey of 2,700 buyers in 6 countries Germany held the top score with an 80% satisfied response. Many companies are aware that sales work is the beginning of business development and relationships and respect competence in this field.
@@ -27,6 +34,7 @@ In Germany, salespeople are generally viewed favorably and are respected. Accord
 This is reflected in what sales people earn. According to Stepstone Germany, the starting salary of a young sales professional begins at approximately 49,000 EUR per year (while the average salary of newly starting professionals in other areas is 37,200 EUR. Normally, extra benefits and incentive fees add on to this and it is not unusual that an experienced or successful sales employee can make between 75 -100,000 EUR per year. Sales executives can make significantly more. In addition, it is common to be generous with the proper tools to do the job. These often include a laptop, iPhone and car as the minimum package in many German companies. (Since Germany is famous for its car manufacturing, it goes without saying that many sales executives are seen in German brand cars).
 
 ### Is there a typical German sales structure in Companies?
+
 As in other countries, Germany is very diversified in terms of size of company, industry and target audience. But there tends to be a certain structure of sales organizations in German companies. To begin with, a classic distinction is made between external sales and sales office. The external sales personnel take care of clients, go to personal meetings and events and are often very free in their own organization. The sales office is often its own entity within a company and is dedicated to supporting the external sales, preparing order forms, adjusting documents and taking care of complaints or correspondence.
 
 If the company is big enough there will be a sales executive amongst the board of directors. Otherwise this is taken care of by the CEO personally.
@@ -52,6 +60,7 @@ Attachments with professional and purpose-fulfilling information are welcome.
 Also, the German business email has a detail to keep in mind. If an email is sent from a German company, it is mandatory to provide company details like who is Managing Director, where the company is registered and so on. There are even different rules for each type of company. Since this is usual in Germany, it is recommended to always use an informational signature when interacting with clients. This is considered to be trustworthy and professional.
 
 ### B2C Sales
+
 Cold calling is in principle not allowed in Germany. Due to the so-called UWG which is the German legislation “unfair competition act”, previous consent of the call recipient is mandatory. This, in combination with the General Data Protection Regulation (GDPR) that was implemented by the EU on the 25th of May 2018, allow only very narrow game rules for reaching out to people on the phone.
 
 Also, it is notable that the ‘German consumer’ can be characterized as sensible in terms of how he or she is contacted or which rights he or she has and so on. There are numerous German magazines, consumer protection organizations and even television shows that constantly review the market.
@@ -63,9 +72,12 @@ Sales approaches in the German B2C sales can vary strongly according to geograph
 In essence, solid preparation is advisable before starting B2C sales in Germany. The formal requirements should be met and with thorough research, the standards for the respective product group identified. This, together with a solid, facts-based communication lays the groundwork for consumer acceptance.
 
 ### Conclusion
+
 Selling in Germany requires a fair amount of preparation in order to have a full understanding of the mechanisms before starting. Generally, it is considered to be a demanding market and both business as well as consumers are well informed about product quality standards. A thorough substantiation of selling arguments – in writing – together with professional communication tools are basic ingredients for being successful in Germany.
 
+
 ## German Sales in a historic perspective
+
 In 1936, when Dale Carnegie’s famous book “How to Win Friends and Influence People” was published in the USA, in Germany modern sales techniques and management practices were unknown.
 
 The earliest sign in Germany of interest in the topic was the 1971 international bestseller “Psychology & Technique of the Sales Pitch” by Jan K. Wage. As the modernizing German telephone network was covering more and more of (at least) West Germany, it slowly became normal to contact potential buyers/customers by phone and to think more systematically about how to refine the sales pitch.

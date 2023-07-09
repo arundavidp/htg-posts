@@ -1,6 +1,10 @@
-# Birth and Death Certificates
+---
+title: 'Birth and Death Certificates'
+url: 'https://howtogermany.com/bureaucracy/birth-and-death-certificates/'
+---
 
 ## Can you please tell me how I can obtain German birth or death certificates?
+
 Records regarding birth, death and marriage are normally kept by the Standesamt (the municipality offices) where the event occurred.
 
 Most cities have websites at www.(nameofcity).de where you can find the contact information for the appropriate Standesamt. The request for the birth or death certificate should be done in writing and contain as much information as possible, including proof of your identity and your legal right to obtain the document.

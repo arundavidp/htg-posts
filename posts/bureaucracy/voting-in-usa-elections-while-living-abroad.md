@@ -1,4 +1,7 @@
-# Voting in U.S. Elections while living in Germany
+---
+title: 'Voting in U.S. Elections while living in Germany'
+url: 'https://howtogermany.com/bureaucracy/voting-in-usa-elections-while-living-abroad/'
+---
 
 Living in Germany doesn’t mean you can’t vote in elections back home. There are a few extra steps, though.
 

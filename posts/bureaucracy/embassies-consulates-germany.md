@@ -1,7 +1,9 @@
-# Embassies and Consulates in Germany
+---
+title: 'Embassies and Consulates in Germany'
+url: 'https://howtogermany.com/bureaucracy/embassies-consulates-germany/'
+---
 
 These diplomatic outposts are here to help. Here’s a quick rundown on what they can — and can’t — do for you.
-
 
 Embassies and consulates in Germany are set up not only to further contacts with the Germans, but also to provide a number of useful services for their citizens if they happen to be traveling or living here. It is their duty, for example, to help their citizens abroad in times of emergency.
 
@@ -14,7 +16,9 @@ Diplomatic or consular officers may not act as attorneys or agents in private ma
 
 
 ## Embassies & Consulates in Germany
+
 ### United States
+
 The new American embassy in Berlin opened with much ceremony on Independence Day 2008, with German Chancellor Angela Merkel and former President George H.W. Bush as speakers. The structure rises four and a quarter stories and closes the last frontage on the historic Pariser Platz, which was a wasteland during the cold war because of its proximity to the Berlin Wall. It’s now a bustling, traffic-free square dominated by the Brandenburg Gate. A green band of trees, gardens and walkways is created along the embassy’s street fronts. In the courtyard is an American eagle made by Germany’s famous Meissen porcelain manufacturer. Close by are the embassies of World War II allies, Britain and France; the Reichstag, Germany’s parliament; the Holocaust Museum, and the elegant Hotel Adlon The ambassador’s office is in a penthouse, which overlooks the embassy’s rooftop garden. It was so constructed that the horses atop the Brandenburg Gate seem to ride across a field of native American grass.
 
 Also as a security precaution the American Consulate in Frankfurt has moved from its Westend location to the site of a former U.S. Army hospital in an outlying district. The area is large and easily fenced in. It houses many U.S. government agencies and has administrative and logistic functions for many of the other missions in the eastern hemisphere.
@@ -63,6 +67,7 @@ E-Mail Subscriber Service: The U.S. Embassy now offers a free e-mail subscriber 
 To subscribe to the Germany ACS service, simply send a blank e-mail to GermanyACS-subscribe@Listbot.com. You will receive a confirmation message requiring you to send a blank reply to listbot.com. Upon sending the reply, your subscription will be confirmed and you will automatically receive public announcements and other messages in the future
 
 ### United Kingdom
+
 The British embassy is now occupying its prewar site at Wilhelmstrasse 70-71. This plot of land was acquired by the British government in 1884 and used as an embassy right up to the outbreak of World War II. The original building was all but completely destroyed in the war.
 
 The new building, opened by Queen Elizabeth in 2000, is very modern inside with bright colors, shining metal, an open-plan interior and wood-paneled floors. It’s a far cry from the traditional Victorian view of Britain, though the exterior harmonizes with the nearby Brandenburg Gate and Hotel Adlon. The front gate of the old embassy, bearing the British coat of arms, survived the air raids and has been made a feature of the present building.
@@ -85,6 +90,7 @@ Bürkleinstrasse 10, 80538 Munich
 Tel: 089-211090
 
 ### Australia
+
 The Australians this year moved their embassy into an architecturally protected group of impressive old buildings, dating from 1886 and 1912. They are on the Märkisches Ufer, facing the Spree River in the former East Berlin.
 
 Embassy
@@ -100,6 +106,7 @@ Neue Mainzer Str. 52-58, 60311 Frankfurt
 Tel: 069-90558-0.
 
 ### Canada
+
 Canada, too, has moved into a new embassy, in the former “no man’s land” between east and west. The embassy is using native materials (yellow limestone from Manitoba, beechwood from Ontario, oak from Quebec) to create a very representative structure, with such features as a “Timber Hall”, “Garden Court” and “Welcoming Water Garden.” You can take a virtual tour of the new building at the embassy’s website.
 
 Embassy
@@ -124,6 +131,7 @@ Tel: 0711-223 96 78
 Fax: 0711-223 96 79
 
 ### New Zealand
+
 The New Zealand Ambassador to Germany is accredited to Austria, Czech Republic, Hungary, Poland, the Slovak Republic and Switzerland. There are consulates in all of those countries, and also in Hamburg.
 
 Embassy
@@ -139,6 +147,7 @@ Domstrasse 19, 20095 Hamburg
 Tel: 040-4425550.
 
 ### Ireland
+
 Ireland has an embassy in Berlin and honorary consulates in Frankfurt, Hamburg, Köln and Munich.
 
 Embassy
@@ -148,6 +157,7 @@ Tel: 030-2207-20
 [Irish Embassy Website](https://www.dfa.ie/irish-embassy/germany/)
 
 ### South Africa
+
 South Africa, too, has a new Berlin embassy, in the Tiergarten.
 
 Embassy
