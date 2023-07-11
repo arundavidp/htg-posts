@@ -1,6 +1,8 @@
 ---
 title: 'Starting a Business in Germany'
 url: 'https://howtogermany.com/business/entrepreneurship/starting-a-business/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 Germany is home to tens of thousands of businesses ranging from small sole proprietorships to large conglomerates. In fact, a large part of the reason for the prominence of Germany’s economy on the world stage can be linked to the small and medium sized businesses (SMEs) of the Mittelstand. The German government is very open to the establishment of all types of businesses – regardless of whether or not it involves a German or a foreigner.

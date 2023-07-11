@@ -1,6 +1,8 @@
 ---
 title: 'German Law and the German Legal System'
 url: 'https://howtogermany.com/bureaucracy/german-law-and-the-german-legal-system/'
+date: '2023-03-14'
+tags: ['bureaucracy','law']
 ---
 
 A list of some important things to be aware of — you never know when they might come in handy.

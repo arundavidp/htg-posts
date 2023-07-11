@@ -1,6 +1,8 @@
 ---
 title: 'German Driver’s License Replacement'
 url: 'https://howtogermany.com/bureaucracy/german-drivers-license-replacement/'
+date: '2023-03-14'
+tags: ['bureaucracy','law']
 ---
 
 ## How do I replace a lost or stolen German driver’s license?

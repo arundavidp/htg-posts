@@ -1,6 +1,8 @@
 ---
 title: 'Passports for Infants'
 url: 'https://howtogermany.com/bureaucracy/passports-for-infants/'
+date: '2023-03-14'
+tags: ['bureaucracy','law']
 ---
 
 ## We are US citizens and are planning on traveling to Germany soon with an infant. Does our child need a passport?

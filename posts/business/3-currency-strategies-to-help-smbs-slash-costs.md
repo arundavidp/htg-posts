@@ -1,6 +1,8 @@
 ---
 title: '3 Currency Strategies to Help SMBs Slash Costs'
 url: 'https://howtogermany.com/business/accounting-finance/3-currency-strategies-to-help-smbs-slash-costs/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 Here are some foreign exchange tools to help you better control import costs, minimize foreign exchange risk, and maximize your overseas profit potential.

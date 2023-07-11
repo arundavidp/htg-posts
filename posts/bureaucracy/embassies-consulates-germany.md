@@ -1,6 +1,8 @@
 ---
 title: 'Embassies and Consulates in Germany'
 url: 'https://howtogermany.com/bureaucracy/embassies-consulates-germany/'
+date: '2023-03-14'
+tags: ['bureaucracy','law']
 ---
 
 These diplomatic outposts are here to help. Here’s a quick rundown on what they can — and can’t — do for you.

@@ -1,6 +1,8 @@
 ---
 title: 'Birth and Death Certificates'
 url: 'https://howtogermany.com/bureaucracy/birth-and-death-certificates/'
+date: '2023-03-14'
+tags: ['bureaucracy','law']
 ---
 
 ## Can you please tell me how I can obtain German birth or death certificates?

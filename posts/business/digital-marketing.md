@@ -1,6 +1,8 @@
 ---
 title: 'An Analysis of the Online Advertising and SEO Market in Germany'
 url: 'https://howtogermany.com/business/marketing/digital-marketing/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 Germany has a deserved reputation as an economic powerhouse. With a population of eighty-two million people Germany is situated at the heart of Europe and has the continent’s largest economy. The German economic scene is traditionally a hub of manufacturing industry with a strong emphasis on exports. But how does Germany measure up in this era of rapidly expanding ecommerce?

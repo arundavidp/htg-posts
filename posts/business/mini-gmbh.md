@@ -1,6 +1,8 @@
 ---
 title: 'The Mini-GmbH'
 url: 'https://howtogermany.com/business/entrepreneurship/mini-gmbh/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 Founding a corporation in Germany, or shifting a sole proprietorship to a corporation, is now simpler and less expensive, thanks to a law reform enacted in 2008. An Unternehmergesellschaft (UG), commonly known as a “mini-GmbH”, can be established with capital of only one euro, or any other sum up to the €25,000 required for a regular corporation (Gesellschaft mit beschränkter Haftung, GmbH). International investors are finding the low investment an advantage in their strategy to develop and grow business in Germany and Greater Europe.

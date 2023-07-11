@@ -1,6 +1,8 @@
 ---
 title: 'Road Map for International Companies Wanting to Enter the German Market'
 url: 'https://howtogermany.com/business/marketing/international-companies-german-business-road-map/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 For decades Germany has been regarded as a world economic powerhouse. It has the largest economy in Europe and is the fourth largest in the world. German economic success has been built on years of intensive research and development and industrial innovation.

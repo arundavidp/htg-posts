@@ -1,6 +1,8 @@
 ---
 title: 'Bureaucracy'
 url: 'https://howtogermany.com/bureaucracy/'
+date: '2023-03-14'
+tags: ['bureaucracy','law']
 ---
 
 Knowing where to turn for assistance from your home country's government while living in Germany is crucial.

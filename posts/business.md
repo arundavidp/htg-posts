@@ -1,6 +1,8 @@
 ---
 title: 'Business'
 url: 'https://howtogermany.com/business/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 As a German expat looking to start a business or work as a self-employed individual in Germany, there are a number of important considerations to keep in mind. From navigating the legal and regulatory landscape to finding effective marketing strategies to reach potential customers, there are a range of topics that can be helpful to explore.

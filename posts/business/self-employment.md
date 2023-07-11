@@ -1,6 +1,8 @@
 ---
 title: 'Self-Employment in Germany'
 url: 'https://howtogermany.com/business/entrepreneurship/self-employment/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 Being self-employed in Germany is necessarily tied to residence. Without some sort of residence permit it will be difficult, if not impossible, for an individual to establish a business in which they are self-employed. (See the separate article on Residence Permits).

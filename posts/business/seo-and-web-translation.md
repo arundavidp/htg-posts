@@ -1,6 +1,8 @@
 ---
 title: 'German SEO and Web Translation – 8 Steps to Success'
 url: 'https://howtogermany.com/business/marketing/seo-and-web-translation/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 The German market offers a great deal of potential to companies looking to expand into Europe. With 88% of its 84 million population considered active Internet users, Germany’s e-commerce market is a prime environment for potential growth. Research has shown that German customers are happy shopping on international sites, too. And with excellent year-on-year growth that shows no signs of falling, it is hardly surprising that companies are actively seeking to expand in this promising market.

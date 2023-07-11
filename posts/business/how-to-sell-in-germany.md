@@ -1,6 +1,8 @@
 ---
 title: 'How To Sell in Germany'
 url: 'https://howtogermany.com/business/marketing/how-to-sell-in-germany/'
+date: '2023-03-14'
+tags: ['business','startup']
 ---
 
 “Nothing happens until someone sells something” (Henry Ford).
