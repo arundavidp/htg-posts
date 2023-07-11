@@ -35,7 +35,7 @@ Zweigniederlassung (Branch). This is more of a non-independent sales center, dep
 
 The distinction between a subsidiary and a branch office is important, as it determines whether an entry must be made in the Commercial Register. The distinction is also important in determining whether a place of business exists within the meaning of German tax law.
 
-# Hiring Workers
+## Hiring Workers
 
 Free agents (freie Mitarbeiter): are workers who take care of their own taxes and insurance. You or the company have the option of utilizing their services only when you need them, and paying them only if they do the agreed work. And the relationship is easy to terminate if things don’t pan out.
 
